@@ -11,7 +11,7 @@
 		<h1>About Me</h1>
 		<div class="container">
 			<p>Will Tredway is a former carpenter.</p>
-			<p>Standing over <strong>1'4" tall</strong>, he presents the countenance of a mighty tribble!</p>
+			<p>Standing over <strong>1'4" tall</strong>, he presents the countenance of a <strong><em>mighty tribble!</em></strong></p>
 			<div class="list">
 						<h4>Things Will Likes:</h4>
 						<ul>
@@ -20,7 +20,7 @@
 							<li id="item3">skipping</li>
 							<li id="item4">meditating</li>
 						</ul>
-				<img src="./resources/avatar_sketch4.png" alt="Will Tredway">
+				<img src="./resources/tribble.jpg" alt="Will Tredway">
 			</div>
 		</div>
 	</body>
