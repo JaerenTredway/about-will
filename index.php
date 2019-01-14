@@ -11,13 +11,13 @@
 		<h1>About Me</h1>
 		<div class="container">
 			<p>Will Tredway is a former carpenter.</p>
-			<p>Standing over 6'4" tall, he presents the countenance of a mighty giraffe!</p>
+			<p>Standing over <strong>1'4" tall</strong>, he presents the countenance of a mighty tribble!</p>
 			<div class="list">
 						<h4>Things Will Likes:</h4>
 						<ul>
-							<li id="item1">pets such as cats and dogs</li>
+							<li id="item1">pets such as squirrels and falcons</li>
 							<li id="item2">coding</li>
-							<li id="item3">hiking</li>
+							<li id="item3">skipping</li>
 							<li id="item4">meditating</li>
 						</ul>
 				<img src="./resources/avatar_sketch4.png" alt="Will Tredway">
