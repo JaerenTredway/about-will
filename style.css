@@ -21,9 +21,9 @@ span {
 	text-align: center;
 }
 
-.parent {
+.list {
 	text-align: center;
 }
-.parent > ul {
+.list > ul {
 	display: inline-block;
 }
