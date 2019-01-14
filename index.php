@@ -19,7 +19,7 @@
 					<li id="item3">hiking</li>
 					<li id="item4">meditating</li>
 				</ul>
-				<img src="/Users/jaerentredway/Documents/avatars/avatar_sketch4.png" alt="Will Tredway">
+				<img src="./resources/avatar_sketch4.png" alt="Will Tredway">
 			</div>
 		</div>
 	</body>
