@@ -12,7 +12,7 @@
 		<div class="container">
 			<p>Will Tredway is a former carpenter.</p>
 			<p>Standing over <strong>12" tall</strong>, he presents the embodiment of a <strong><em>mighty tribble!</em></strong></p>
-			<div class="list">
+			<div class="parent">
 						<h4>Things Will Likes:</h4>
 						<ul>
 							<li id="item1">rolling around</li>
