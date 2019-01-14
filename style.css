@@ -1,0 +1,14 @@
+body {
+	font-family: "Bradley Hand", sans-serif;
+	color: slategray;
+	text-align: center;
+}
+
+h1 {
+	font-size: 64px;
+	text-align: center;
+}
+
+span {
+	text-align: center;
+}

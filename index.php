@@ -12,13 +12,14 @@
 		<div class="container">
 			<p>Will Tredway is a former carpenter.</p>
 			<p>Standing over 6'4" tall, he presents the countenance of a mighty giraffe!</p>
-			<div class="#">
-				<ul> Things Will Likes:
-					<li id="item1">pets such as cats and dogs</li>
-					<li id="item2">coding</li>
-					<li id="item3">hiking</li>
-					<li id="item4">meditating</li>
-				</ul>
+			<div class="list">
+						<h4>Things Will Likes:</h4>
+						<ul>
+							<li id="item1">pets such as cats and dogs</li>
+							<li id="item2">coding</li>
+							<li id="item3">hiking</li>
+							<li id="item4">meditating</li>
+						</ul>
 				<img src="./resources/avatar_sketch4.png" alt="Will Tredway">
 			</div>
 		</div>
